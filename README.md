@@ -1,5 +1,5 @@
 # ProjetoRegionalidade
-# Alunos: João Savaris, Tiago Mohr e Wagner Holleweger
+**Alunos: João Savaris, Tiago Mohr e Wagner Holleweger**
 
 Visualizacao Dos dados coletados pelos sensores(EM DESENVOLVIMENTO)
 ![2023-08-28_21h09_04](https://github.com/Holleweger/ProjetoRegionalidade/assets/65625548/1f609f0c-c628-4d83-b9b3-1969d10d44c6)
