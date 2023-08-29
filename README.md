@@ -15,3 +15,5 @@ Requisitos funcionais e nao funcionais
 **Título:** _"Asas da Inovação: Zabuino Eleva a Avicultura"_
 
 Na comunidade de avicultores, Lucas, um engenheiro agrícola, trouxe uma reviravolta. Ao combinar sua paixão por aves com seu conhecimento tecnológico, ele criou o "Zabuino" - um sistema que revolucionou os aviários. Equipado com sensores precisos e uma interface intuitiva, o Zabuino permitiu que os avicultores monitorassem a temperatura e umidade dentro dos aviários em tempo real. Com alertas imediatos e dados históricos disponíveis no "AviaryHub", as aves passaram a viver em ambientes ideais, e os avicultores abraçaram um novo nível de eficiência e planejamento. A história de Lucas e do Zabuino destaca como a fusão da tecnologia com a natureza pode conduzir a um futuro próspero para a avicultura.
+
+Desenvolver um PDF com a integracao zabbix e grafana.
