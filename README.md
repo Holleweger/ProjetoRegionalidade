@@ -17,3 +17,9 @@ Requisitos funcionais e nao funcionais
 Na comunidade de avicultores, Lucas, um engenheiro agrícola, trouxe uma reviravolta. Ao combinar sua paixão por aves com seu conhecimento tecnológico, ele criou o "Zabuino" - um sistema que revolucionou os aviários. Equipado com sensores precisos e uma interface intuitiva, o Zabuino permitiu que os avicultores monitorassem a temperatura e umidade dentro dos aviários em tempo real. Com alertas imediatos e dados históricos disponíveis no "AviaryHub", as aves passaram a viver em ambientes ideais, e os avicultores abraçaram um novo nível de eficiência e planejamento. A história de Lucas e do Zabuino destaca como a fusão da tecnologia com a natureza pode conduzir a um futuro próspero para a avicultura.
 
 Desenvolver um PDF com a integracao zabbix e grafana.
+
+
+![2023-09-06_10h37_15](https://github.com/Holleweger/ProjetoRegionalidade/assets/65625548/892dd877-75f8-4864-bf7b-e2c1a95dcf64)
+
+
+![25-0](https://github.com/Holleweger/ProjetoRegionalidade/assets/65625548/15c63011-7bb7-4271-bb0b-ffa116b9edaf)
