@@ -23,3 +23,20 @@ Desenvolver um PDF com a integracao zabbix e grafana.
 
 
 ![25-0](https://github.com/Holleweger/ProjetoRegionalidade/assets/65625548/15c63011-7bb7-4271-bb0b-ffa116b9edaf)
+
+**Ambiente Desenvolvimento**
+
+Sensor de Temperatura:
+- Arduino
+
+Sistema Operacional:
+- Almalinux
+
+Interface de Obetenção de Dados:
+- Zabbix
+
+Interface de Usuário:
+- Grafana
+
+Banco de Dados:
+- Mysql (Zabbix)
