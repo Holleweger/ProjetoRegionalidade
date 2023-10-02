@@ -102,3 +102,7 @@ Com esta integração, você poderá visualizar e analisar os dados de monitoram
 # Prints do Sistema em Funcionamento
 **Sistema Zabbix Com o Arduino Cadastrado**
 ![2023-08-28_21h09_04](https://github.com/Holleweger/ProjetoRegionalidade/blob/29b57262b8719fccfe63f20be0888d2d9cfcc84c/Prot%C3%B3tipo/ServicoZabbix.png)
+
+**Integração Grafana-Zabbix**
+![2023-08-28_21h09_04](https://github.com/Holleweger/ProjetoRegionalidade/blob/56546962361168fcf13703125428321e9e8fdc05/Prot%C3%B3tipo/ServicoIntegracaoGrafana.png)
+
