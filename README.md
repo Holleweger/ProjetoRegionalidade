@@ -99,5 +99,5 @@ Personalize o painel conforme suas necessidades, adicionando gráficos, tabelas,
 Clique em "Apply" para salvar o painel.
 Com esta integração, você poderá visualizar e analisar os dados de monitoramento do Zabbix em painéis dinâmicos e customizáveis no Grafana. Aproveite as vantagens dessa combinação poderosa para otimizar o monitoramento de seus sistemas e serviços.
 
-# Visualizacao Dos dados coletados pelos sensores(EM DESENVOLVIMENTO)
+# Prints do Sistem em Funcionamento
 ![2023-08-28_21h09_04](https://github.com/Holleweger/ProjetoRegionalidade/assets/65625548/1f609f0c-c628-4d83-b9b3-1969d10d44c6)
