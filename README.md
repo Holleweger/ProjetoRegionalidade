@@ -2,9 +2,6 @@
 
 **Alunos: João Savaris, Tiago Mohr e Wagner Holleweger**
 
-Visualizacao Dos dados coletados pelos sensores(EM DESENVOLVIMENTO)
-![2023-08-28_21h09_04](https://github.com/Holleweger/ProjetoRegionalidade/assets/65625548/1f609f0c-c628-4d83-b9b3-1969d10d44c6)
-
 Diagrama de classes de uml
 ![2023-08-28_21h09_18](https://github.com/Holleweger/ProjetoRegionalidade/assets/65625548/c20d282c-12d6-4855-85d6-565ab4fa8580)
 
@@ -16,13 +13,6 @@ Requisitos funcionais e nao funcionais
 
 Na comunidade de avicultores, Lucas, um engenheiro agrícola, trouxe uma reviravolta. Ao combinar sua paixão por aves com seu conhecimento tecnológico, ele criou o "Zabuino" - um sistema que revolucionou os aviários. Equipado com sensores precisos e uma interface intuitiva, o Zabuino permitiu que os avicultores monitorassem a temperatura e umidade dentro dos aviários em tempo real. Com alertas imediatos e dados históricos disponíveis no "AviaryHub", as aves passaram a viver em ambientes ideais, e os avicultores abraçaram um novo nível de eficiência e planejamento. A história de Lucas e do Zabuino destaca como a fusão da tecnologia com a natureza pode conduzir a um futuro próspero para a avicultura.
 
-Desenvolver um PDF com a integracao zabbix e grafana.
-
-
-![2023-09-06_10h37_15](https://github.com/Holleweger/ProjetoRegionalidade/assets/65625548/892dd877-75f8-4864-bf7b-e2c1a95dcf64)
-
-
-![25-0](https://github.com/Holleweger/ProjetoRegionalidade/assets/65625548/15c63011-7bb7-4271-bb0b-ffa116b9edaf)
 
 **Ambiente Desenvolvimento**
 
@@ -95,3 +85,6 @@ Configure as métricas e o host desejados.
 Personalize o painel conforme suas necessidades, adicionando gráficos, tabelas, etc.
 Clique em "Apply" para salvar o painel.
 Com esta integração, você poderá visualizar e analisar os dados de monitoramento do Zabbix em painéis dinâmicos e customizáveis no Grafana. Aproveite as vantagens dessa combinação poderosa para otimizar o monitoramento de seus sistemas e serviços.
+
+# Visualizacao Dos dados coletados pelos sensores(EM DESENVOLVIMENTO)
+![2023-08-28_21h09_04](https://github.com/Holleweger/ProjetoRegionalidade/assets/65625548/1f609f0c-c628-4d83-b9b3-1969d10d44c6)
