@@ -1,11 +1,24 @@
-# ProjetoRegionalidade
-
+# Zabuino: O Poder da Precisão, a Inteligência da Integração
 **Alunos: João Savaris, Tiago Mohr e Wagner Holleweger**
 
-Diagrama de classes de uml
+No universo em constante movimento da tecnologia, o controle preciso da temperatura é essencial para manter ambientes seguros e operando com eficiência máxima. Apresentamos o Zabuino, uma solução de monitoramento de temperatura que vai além das expectativas, integrando perfeitamente dois gigantes da gestão de dados: Zabbix e Grafana.
+
+Por que Escolher o Zabuino?
+
+**Precisão Inigualável**: O Zabuino é equipado com sensores de ponta que proporcionam leituras de temperatura excepcionalmente precisas, garantindo dados confiáveis para tomadas de decisão precisas.
+
+**Integração Zabbix e Grafana**: O Zabuino une o poder do Zabbix, um dos sistemas de monitoramento mais robustos do mundo, com a flexibilidade e visualizações impressionantes do Grafana. Isso significa que você tem acesso a dados em tempo real e visualizações personalizadas em um único painel intuitivo.
+
+**Histórico Detalhado e Análise Preditiva**: O Zabuino mantém registros meticulosos de dados de temperatura, permitindo análises de tendências e a implementação de estratégias proativas para otimizar o ambiente.
+
+**Fácil Instalação e Configuração**: Com um design intuitivo e guias claros, a instalação do Zabuino é rápida e descomplicada. Em questão de minutos, você estará protegido.
+
+
+
+**Acompanhe abaixo o nosso diagrama de classes do projeto**
 ![2023-08-28_21h09_18](https://github.com/Holleweger/ProjetoRegionalidade/assets/65625548/c20d282c-12d6-4855-85d6-565ab4fa8580)
 
-Requisitos funcionais e nao funcionais
+**Requisitos funcionais e nao funcionais**
 ![2023-08-28_21h22_29](https://github.com/Holleweger/ProjetoRegionalidade/assets/65625548/e571d3a0-53f6-42e9-8937-cf0554f3db1e)
 
 
