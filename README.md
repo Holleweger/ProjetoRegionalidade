@@ -106,3 +106,5 @@ Com esta integração, você poderá visualizar e analisar os dados de monitoram
 **Integração Grafana-Zabbix**
 ![2023-08-28_21h09_04](https://github.com/Holleweger/ProjetoRegionalidade/blob/56546962361168fcf13703125428321e9e8fdc05/Prot%C3%B3tipo/ServicoIntegracaoGrafana.png)
 
+**Link do Vídeo**
+https://github.com/Holleweger/ProjetoRegionalidade/blob/main/Video/AtividadeRegionalidade.mp4
